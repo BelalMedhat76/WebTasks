@@ -1,18 +1,18 @@
 body {
-    background-color: #919191;
+    background-color: #A4A68A;
     height: 1580px;
     position: relative;
 }
 
 * {
-    color: white;
+    color: #F2F2F2;
     box-sizing: border-box;
 }
 
 .leftSection {
     height: 1390px;
     width: 400px;
-    background-color: #110066;
+    background-color: #D94C1A;
     float: left;
     margin-left: 8px;
     margin-top: 10px;
@@ -21,7 +21,7 @@ body {
 .right {
     height: 1390px;
     width: 900px;
-    background-color: #D94C1A;
+    background-color: #57523E;
     float: left;
     margin-left: 20px;
     margin-top: 10px;
@@ -40,8 +40,8 @@ body {
 .name {
     position: absolute;
     top: 340px;
-    color: white;
-    left: 20px;
+    color: #F2F2F2;
+    left: 50px;
     text-transform: capitalize;
     font-size: 30px;
 }
@@ -52,12 +52,12 @@ a {
     text-decoration: none;
     position: relative;
     left: 20px;
-    color: white;
+    color: #F2F2F2;
     font-size: 20px;
 }
 
 .x {
-    background-color: #90CBFB;
+    background-color: #F2F2F2;
     width: 360px;
     border-radius: 20px;
     position: relative;
@@ -71,7 +71,7 @@ p {
 }
 
 .y {
-    background-color: #D94C1A;
+    background-color: #503c00;
     width: 300px;
     border-radius: 20px;
     margin: 0;
@@ -79,7 +79,7 @@ p {
 }
 
 .z {
-    background-color: #D94C1A;
+    background-color: #503c00;
     width: 200px;
     border-radius: 20px;
     margin: 0;
@@ -87,7 +87,7 @@ p {
 }
 
 .a {
-    background-color: #D94C1A;
+    background-color: #503c00;
     width: 250px;
     border-radius: 20px;
     margin: 0;
@@ -95,7 +95,7 @@ p {
 }
 
 .f {
-    background-color: #D94C1A;
+    background-color: #503c00;
     width: 100px;
     border-radius: 20px;
     margin: 0;
@@ -103,16 +103,15 @@ p {
 }
 
 .m {
-    background-color: #D94C1A;
+    background-color: #503c00;
     width: 360px;
-    /* padding-left: 10px; */
     border-radius: 20px;
     position: relative;
     left: 20px;
 }
 
 .r {
-    background-color: #D94C1A;
+    background-color: #503c00;
     width: 360px;
     border-radius: 20px;
     margin: 0;
@@ -133,7 +132,7 @@ p {
     padding: 10px;
     width: 880px;
     height: 630px;
-    background-color: #110066;
+    background-color: #D94C1A;
     position: absolute;
     margin-top: 20px;
 }
@@ -143,14 +142,14 @@ p {
     padding: 10px;
     width: 880px;
     height: 700px;
-    background-color: #110066;
+    background-color: #D94C1A;
     position: absolute;
     top: 658px;
 }
 
 .footer {
     position: absolute;
-    background-color: #110066;
+    background-color: #D94C1A;
     font-size: 40px;
     width: 100%;
     height: 150px;
